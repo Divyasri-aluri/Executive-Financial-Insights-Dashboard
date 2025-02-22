@@ -11,11 +11,11 @@ This repository hosts an interactive financial report tool built with Power BI. 
 
 ## Key Insights
 
-- **Revenue Trends:** 📈 Tracks how sales revenue evolves over time.
-- **Expense Analysis:** 💸 Breaks down costs to pinpoint savings opportunities.
-- **Profitability Metrics:** 💰 Highlights net profit margins, gross profit, and EBITDA.
-- **Sales Performance by Segment:** 🔍 Compares product lines, regions, and channels.
-- **Interactive Drill-Downs & Forecasting:** 🔮 Offers customizable analysis and future trend projections.
+- **Revenue Trends:**  Tracks how sales revenue evolves over time.
+- **Expense Analysis:**  Breaks down costs to pinpoint savings opportunities.
+- **Profitability Metrics:**  Highlights net profit margins, gross profit, and EBITDA.
+- **Sales Performance by Segment:**  Compares product lines, regions, and channels.
+- **Interactive Drill-Downs & Forecasting:**  Offers customizable analysis and future trend projections.
 
 
 
