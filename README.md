@@ -1,4 +1,4 @@
-# Executive Summary - Financial Report
+# Executive Financial Insights Dashboard
 
 This repository hosts an interactive financial report tool built with Power BI. It is designed to provide an executive-level overview of key financial data through dynamic visualizations, enabling stakeholders to quickly assess business performance and trends.
 
